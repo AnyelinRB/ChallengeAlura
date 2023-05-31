@@ -55,7 +55,7 @@ function desencriptar(){
             Swal.fire({
                 title: "OH OH",
                 text: "Debes escribir un texto",
-                icon: "warning", 
+                icon: "Warning", 
                 confirmButtonText: "Aceptar"
               });
               
